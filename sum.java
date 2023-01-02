@@ -6,7 +6,7 @@ class sum{
         int d =25;
         int c =20; 
         System.out.println(a+b);//sumation
-       
+       //for other sub
         
     }
 }
